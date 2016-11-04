@@ -1,9 +1,16 @@
 ---
 tags: []
 layout: input_right
-editor: code
+editor: multiple_choice
 type: problem
 extra_visible: false
-language: 
+language: text
 teacher_info: ''
 manual_evaluation: false
+choices:
+- value: Hola
+  checked: true
+- value: Genial
+  checked: false
+- value: Todo bien?
+  checked: false
